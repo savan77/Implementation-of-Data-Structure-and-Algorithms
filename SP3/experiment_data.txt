@@ -1,0 +1,103 @@
+
+Author:
+Savan Amitbhai Visalpara (sxv180069)
+Srikumar Ramaswamy (sxr170016)
+
+
+Below are the outputs of running this script on various size of the input.
+
+n = number of elements
+Choice = take used.
+threshold is 16 in every run.
+
+
+N = 16000000
+Choice: 2
+Time: 2567 msec.
+Memory: 125 MB / 256 MB.
+
+N = 16000000
+Choice: 3
+Time: 2470 msec.
+Memory: 125 MB / 256 MB.
+
+N = 16000000
+Choice = 4
+Time: 2386 msec.
+Memory: 125 MB / 256 MB.
+
+N = 16000000
+Choice: 6
+Time: 2210 msec.
+Memory: 125 MB / 256 MB.
+
+
+N = 32000000 
+Choice = 2
+Time: 5598 msec.
+Memory: 247 MB / 414 MB.
+
+
+N = 32000000
+Choice = 3
+Time: 5034 msec.
+Memory: 247 MB / 256 MB.
+
+
+N = 32000000
+Choice: 4
+Time: 5142 msec.
+Memory: 247 MB / 414 MB.
+
+N = 32000000
+Choice: 6
+Time: 4273 msec.
+Memory: 247 MB / 415 MB.
+
+
+N = 64000000 
+Choice: 2
+Time: 11378 msec.
+Memory: 491 MB / 820 MB.
+
+
+N = 64000000 
+Choice: 3
+Time: 10616 msec.
+Memory: 491 MB / 820 MB.
+
+
+N = 64000000 
+Choice: 4
+Time: 10639 msec.
+Memory: 491 MB / 820 MB.
+
+
+N = 64000000
+Choice: 6
+Time: 9043 msec.
+Memory: 491 MB / 822 MB.
+
+
+N = 128000000 
+Choice: 2
+Time: 52776 msec.
+Memory: 979 MB / 1634 MB.
+
+
+N = 128000000
+Choice: 3
+Time: 92995 msec.
+Memory: 979 MB / 1634 MB.
+
+
+N = 128000000
+Choice: 4
+Time: 22144 msec.
+Memory: 979 MB / 1634 MB.
+
+
+N = 128000000
+Choice: 6
+Time: 19866 msec.
+Memory: 979 MB / 1635 MB.

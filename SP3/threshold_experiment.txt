@@ -1,0 +1,199 @@
+
+
+Author:
+Savan Amitbhai Visalpara (sxv180069)
+Srikumar Ramaswamy (sxr170016)
+
+
+This file reports the experiments we did to find best threshold.
+We found that, in general, 16 works the best.
+
+N = 400000 
+Choice = 4 
+Threshold = 4
+Time: 42 msec.
+Memory: 105 MB / 256 MB.
+
+
+N = 400000 
+Choice = 4
+Threshold = 5
+Time: 43 msec.
+Memory: 105 MB / 256 MB.
+
+
+N = 400000 
+Choice = 4
+Threshold = 3
+Time: 41 msec.
+Memory: 105 MB / 256 MB.
+
+
+N = 400000 
+Choice = 4
+Threshold = 2
+Time: 43 msec.
+Memory: 105 MB / 256 MB.
+
+
+N = 400000 
+Choice = 4
+Threshold = 1
+Time: 40 msec.
+Memory: 105 MB / 256 MB.
+
+N = 400000 
+Choice = 4
+Threshold = 16
+Time: 40 msec.
+Memory: 105 MB / 256 MB.
+
+
+N = 4000000 
+Choice = 4
+Threshold = 16 
+Time: 476 msec.
+Memory: 49 MB / 114 MB.
+
+
+
+N = 4000000 
+Choice = 4
+Threshold = 10 
+Time: 503 msec.
+Memory: 49 MB / 114 MB.
+
+
+N = 4000000 
+Choice = 4
+Threshold = 6
+Time: 513 msec.
+Memory: 49 MB / 114 MB.
+
+
+
+N = 4000000 
+Choice = 4
+Threshold = 4
+Time: 510 msec.
+Memory: 49 MB / 114 MB.
+
+
+
+N = 4000000 
+Choice = 4
+Threshold = 2
+Time: 496 msec.
+Memory: 49 MB / 114 MB.
+
+
+N = 4000000 
+Choice = 4
+Threshold = 1
+Time: 502 msec.
+Memory: 49 MB / 114 MB.
+
+
+N = 4000000 
+Choice = 4
+Threshold = 18
+Time: 514 msec.
+Memory: 49 MB / 114 MB.
+
+
+N = 4000000 
+Choice = 4
+Threshold = 24
+Time: 500 msec.
+Memory: 49 MB / 114 MB.
+
+
+
+N = 4000000 
+Choice = 4
+Threshold = 32
+Time: 516 msec.
+Memory: 49 MB / 114 MB.
+
+N = 10000000 
+Choice = 4
+Threshold = 32
+Time: 1488 msec.
+Memory: 79 MB / 256 MB.
+
+
+N = 10000000 
+Choice = 4
+Threshold = 16
+Time: 1474 msec.
+Memory: 79 MB / 256 MB.
+
+
+N = 10000000 
+Choice = 4
+Threshold = 6
+Time: 1387 msec.
+Memory: 79 MB / 256 MB.
+
+
+
+N = 10000000 
+Choice = 4
+Threshold = 4
+Time: 1459 msec.
+Memory: 79 MB / 256 MB.
+
+
+
+N = 16000000 
+Choice = 4
+Threshold = 2
+Time: 2433 msec.
+Memory: 125 MB / 256 MB.
+
+
+
+N = 16000000 
+Choice = 4
+Threshold = 6
+Time: 2382 msec.
+Memory: 125 MB / 256 MB.
+
+
+
+N = 16000000 
+Choice = 4
+Threshold = 16
+Time: 2386 msec.
+Memory: 125 MB / 256 MB.
+
+
+
+N = 16000000 
+Choice = 4
+Threshold = 32
+Time: 2329 msec.
+Memory: 125 MB / 256 MB.
+
+
+
+N = 20000000 
+Choice = 4
+Threshold = 6
+Time: 3083 msec.
+Memory: 125 MB / 256 MB.
+
+
+N = 20000000 
+Choice = 4 
+Threshold = 16
+Time: 3103 msec.
+Memory: 125 MB / 256 MB.
+
+
+N = 20000000 
+Choice = 4 
+Threshold = 32
+Time: 3137 msec.
+Memory: 125 MB / 256 MB.
+
